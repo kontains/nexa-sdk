@@ -1,21 +1,16 @@
 # EmbedNeural – NPU-Native Multimodal Search for Mobile, IoT and PC
 
-<p align="center">
-  <img src="./images/embedneural.png" alt="EmbedNeural overview" width="100%">
-</p>
-
 - 📖 **[Blog Post](https://nexa.ai/blogs/EmbedNeural)**
 - 🎬 **[Demo on Qualcomm](https://youtu.be/iy2X6bJHl1E)**
-- 🎬 **[Demo on Apple](https://youtu.be/W077X06ypPQ)**
 
-> **EmbedNeural** is an NPU-native multimodal embedding model designed for on-device image and text search, optimized for **Apple and Qualcomm NPUs**. It enables efficient, privacy-preserving semantic search directly on mobile, IoT, and PC devices—no cloud required.
+> **EmbedNeural** is an NPU-native multimodal embedding model designed for on-device image and text search, optimized for **Qualcomm NPU**. It enables efficient, privacy-preserving semantic search directly on mobile, IoT, and PC devices—no cloud required.
 
 ### ✨ Key Features
 
-- **NPU-native architecture** – Purpose-built for Apple Neural Engine and Qualcomm Hexagon NPU, maximizing hardware efficiency.
+- **NPU-native architecture** – Purpose-built for Qualcomm Hexagon NPU, maximizing hardware efficiency.
 - **Multimodal search** – Supports searching across text, images, and audio with unified embeddings.
 - **Privacy-preserving** – All processing happens locally on-device, ensuring data never leaves the user's hardware.
-- **Cross-platform support** – Runs on mobile (iOS/Android), IoT devices, and PC with Apple Silicon or Qualcomm chips.
+- **Cross-platform support** – Runs on mobile (Android), IoT devices, and PC with Qualcomm NPU.
 - **Low latency** – Optimized quantization and NPU-friendly operators deliver real-time search performance.
 
 ---
@@ -49,7 +44,7 @@ EmbedNeural turns your chaotic image library into an instantly searchable visual
 
 ## 🚀 Quickstart
 
-> ⚠️ **Hardware Requirement:** EmbedNeural is optimized for **Apple Neural Engine** and **Qualcomm Hexagon NPU**.
+> ⚠️ **Hardware Requirement:** EmbedNeural is optimized for **Qualcomm Hexagon NPU**.
 
 ### Step 1: Pull the Model
 
